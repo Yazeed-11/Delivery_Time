@@ -2,7 +2,7 @@
 <b>Project at SDAIA Academy</b><br>
 ##
 
-# Food Delivery Time 
+# **Food Delivery Time**
 
 This contains data on different cuisines including Italian, Indian and Chinese as well as fast food.
 
