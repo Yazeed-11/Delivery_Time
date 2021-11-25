@@ -1,12 +1,11 @@
-<b>Yazeed Khalid Alharthi</b><br>
-<b>Project at SDAIA Academy</b><br>
-##
+<p align="center">
+<b>Food Delivery Time</b><br>
 
-# **Food Delivery Time**
+ ##
 
 This contains data on different cuisines including Italian, Indian and Chinese as well as fast food.
 
-# Dataset
+# Dataset:
 To achieve the objective of this study, a data set of food delivery times will be used. This dataset can be found at [Kaggle](https://www.kaggle.com/ankitkalauni/the-food-delivery-time-for-different-cuisines).
 There is 11094 rows and 9 columns.
 
@@ -31,7 +30,7 @@ The sample of data is shown in the following table:
  </tr>
 </table>
 
-## Tools
+## Tools:
 There are tools that will be used to achieve the goal of this study, such as: 
 - pandas, numpy for exploring the data.
 - matplotlib for visualizing the data.
@@ -42,3 +41,6 @@ There are tools that will be used to achieve the goal of this study, such as:
 - The least expensive restaurants for dinner ?
 - What is the most requested cuisine ?
 - What is the average delivery order ?
+
+ <b>Yazeed Khalid Alharthi</b><br>
+ <b>Project at SDAIA Academy</b><br>
