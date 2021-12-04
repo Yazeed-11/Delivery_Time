@@ -1,7 +1,5 @@
-<p align="center">
-<b>Food Delivery Time</b><br>
 
- ##
+   # <p  align="center">  **Food Delivery Time** </p>
 
 This contains data on different cuisines including Italian, Indian and Chinese as well as fast food.
 
